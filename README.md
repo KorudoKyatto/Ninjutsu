@@ -1,5 +1,5 @@
 # Ninjutsu
-> Cheatsheets & Tips
+> Cheatsheets and Tips for Full Cycle Developers
 
 ## Cheatsheets
 
@@ -17,12 +17,16 @@
 * [SVN](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Cheatsheets/svn.png)
 
 ## Tips
-***Docker***
+***[Docker](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Tips/Docker.md)***
 * 镜像推送到 [Docker Hub](https://hub.docker.com/)
 * 修改 docker 配置
 * 管理 docker 网络
 * CentOS 升级 Docker
 * 安装 docker-compose
 
-***Linux***
+***[Linux](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Tips/Linux.md)***
 * CentOS 7 安装 [BBR](https://github.com/google/bbr)
+
+***[Mac](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Tips/Mac.md)***
+* 显示隐藏文件
+* 打开“安全性与隐私”未知来源

@@ -16,6 +16,7 @@ $ yum -y remove kernel kernel-tools # 删除旧内核，防止 yum 更新旧版�
 $ echo 'net.core.default_qdisc=fq' | sudo tee -a /etc/sysctl.conf
 $ echo 'net.ipv4.tcp_congestion_control=bbr' | sudo tee -a /etc/sysctl.conf
 $ sysctl -p # 加载系统参数
+$ sysctl net.ipv4.tcp_available_congestion_control
 $ sysctl -n net.ipv4.tcp_congestion_control # 验证 bbr 是否开启
 $ lsmod | grep bbr # 检查内核模块是否加载
 ```
