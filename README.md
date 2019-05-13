@@ -30,3 +30,6 @@
 ***[Mac](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Tips/Mac.md)***
 * 显示隐藏文件
 * 打开“安全性与隐私”未知来源
+
+***[Git](https://github.com/KorudoKyatto/Ninjutsu/blob/master/Tips/Git.md)***
+* 同步 Github fork

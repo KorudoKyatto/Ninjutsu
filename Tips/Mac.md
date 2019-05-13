@@ -7,6 +7,9 @@ $ $ defaults write com.apple.finder AppleShowAllFiles -boolean false; killall Fi
 ```
 
 ***打开“安全性与隐私”未知来源***
-`$ sudo spctl --master-disable`
+
+```
+$ sudo spctl --master-disable
+```
 
 
